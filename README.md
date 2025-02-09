@@ -31,6 +31,7 @@ GET https://api.spacexdata.com/v5/launches/latest
 ```
 
 ```json
+```json
 {
   "fairings": null,
   "links": {
